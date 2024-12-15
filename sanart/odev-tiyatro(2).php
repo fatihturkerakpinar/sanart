@@ -18,7 +18,7 @@ session_start();
         body {
             display: flex;
             flex-direction: column;
-            padding-top: 56px;
+            padding-top: 55px;
         }
 
         @media (min-width: 992px) {
