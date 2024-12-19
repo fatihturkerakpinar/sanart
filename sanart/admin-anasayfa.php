@@ -20,7 +20,7 @@ $result = $conn->query($sql);
         body {
             padding-top: 56px;
             background-image: url('logo/arka1.jpg');
-            /* açıklama */
+            /* açıklama asdasd*/
         }
         @media (min-width: 992px) {
             body {
